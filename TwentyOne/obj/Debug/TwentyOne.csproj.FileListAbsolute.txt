@@ -1,0 +1,6 @@
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojResolveAssemblyReference.cache
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
